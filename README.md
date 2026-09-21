@@ -1,2 +1,2 @@
 # JAVA-Practical
-This is My College JAVA-Practicals
+This is My College JAVA-Practicals.
