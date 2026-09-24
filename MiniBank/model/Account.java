@@ -41,7 +41,7 @@ public class Account implements Serializable, Comparable<Account> {
         return accountNumber.compareTo(other.accountNumber);
     }
 
-    @Override
+        @Override
     public boolean equals(Object o) {
         return o instanceof Account a && accountNumber.equals(a.accountNumber);
     }
